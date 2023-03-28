@@ -1,5 +1,6 @@
 # Olga Yulina
 
+![photo](img/MyPhoto.png))
 
 ### Information about me:
 #### ___telegram:___ unearthly00
@@ -35,6 +36,9 @@ Physics of living systems
 
 ITMO University 2022 - present
 Product designer
+
+### English
+A2
 
 
 
